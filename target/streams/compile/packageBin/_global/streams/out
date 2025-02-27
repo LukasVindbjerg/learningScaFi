@@ -1,0 +1,23 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/lkv/git/learningScaFi/target/scala-2.13/learningscafi_2.13-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	examples[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/lkv/git/learningScaFi/target/scala-2.13/classes/examples[0m
+[0m[[0m[0mdebug[0m] [0m[0m	examples/Main$NeighborIDProgram.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/lkv/git/learningScaFi/target/scala-2.13/classes/examples/Main$NeighborIDProgram.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	examples/MyIncarnation.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/lkv/git/learningScaFi/target/scala-2.13/classes/examples/MyIncarnation.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	examples/Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/lkv/git/learningScaFi/target/scala-2.13/classes/examples/Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	examples/Main$DeviceState.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/lkv/git/learningScaFi/target/scala-2.13/classes/examples/Main$DeviceState.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	examples/MyIncarnation$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/lkv/git/learningScaFi/target/scala-2.13/classes/examples/MyIncarnation$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	examples/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/lkv/git/learningScaFi/target/scala-2.13/classes/examples/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	examples/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/lkv/git/learningScaFi/target/scala-2.13/classes/examples/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	examples/Main$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/lkv/git/learningScaFi/target/scala-2.13/classes/examples/Main$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	examples/Main$DeviceState$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/lkv/git/learningScaFi/target/scala-2.13/classes/examples/Main$DeviceState$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
