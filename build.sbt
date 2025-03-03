@@ -8,7 +8,6 @@ lazy val learningScaFi = (project in file("."))
       "it.unibo.scafi" %% "scafi-core" % "1.2.0",
       "it.unibo.scafi" %% "scafi-simulator" % "1.2.0"
     ),
-    // Compile / mainClass := Some("Main")
   )
 
 // Add ScaFi's repository to resolve dependencies

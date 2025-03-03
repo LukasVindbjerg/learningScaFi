@@ -2,13 +2,13 @@ package examples
 
 import it.unibo.scafi.incarnations.BasicAbstractIncarnation
 
-// Define an incarnation (like `hello-scafi`)
-object MyIncarnation extends BasicAbstractIncarnation
+// Define an incarnation ( like `hello-scafi`)
+object NbrIncarnation extends BasicAbstractIncarnation
 
 // Import everything from the incarnation
-import examples.MyIncarnation._
+import examples.NbrIncarnation._
 
-object Main extends App {
+object listNbr extends App {
   // Import standard sensor names
   val sensorsNames = new StandardSensorNames {}
   import sensorsNames._
@@ -62,4 +62,3 @@ object Main extends App {
     println(s"\tEXPORT: $export\n\tOUTPUT: ${export.root()}\n--------------")
   }
 }
-
