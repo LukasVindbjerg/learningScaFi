@@ -38,6 +38,7 @@ object printId extends App {
     // Print the output
     println(s"Device $d → ID: ${export.root()}")
   }
+  println(state)
 }
 
 
